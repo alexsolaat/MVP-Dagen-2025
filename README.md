@@ -5,5 +5,7 @@ Trackene er:
   - ModernWork
   - Security
   - PowerP-Dyn
+
+  
 Eksempel: Azure-Dev Arnesen - Kan vi vibecode infrastruktur (en foredragsholder)
 Eksempel: Azure-Dev Lokensgard_Eide - Feature of Cloud Network (To foredragsholdere)
